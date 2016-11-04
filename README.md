@@ -4,4 +4,6 @@
 This project creates a website featuring movie trailers, made from a list of python Movie objects as defined in movie.py, populated from the movies.csv file.
 
 To run the program, ensure you have [https://www.python.org/](installed), then run main.py, like:
-```python main.py
+
+```
+python main.py
